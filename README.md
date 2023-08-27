@@ -4,9 +4,13 @@
 
 Welcome to the Flight Price Prediction Project! This data science and machine learning project is designed to predict the price of flight tickets using a comprehensive dataset. Whether you're a traveler looking for affordable fares or a data science enthusiast, you'll find valuable insights here.
 
+---
+
 ## Introduction
 
 Air travel has become an integral part of modern life, and the fluctuating prices of flight tickets can be a major concern for travelers. The Flight Price Prediction Project aims to alleviate this concern by using data science and machine learning techniques to predict flight ticket prices accurately.
+
+---
 
 ## Features
 
@@ -18,6 +22,7 @@ Air travel has become an integral part of modern life, and the fluctuating price
 
 - **Model Evaluation**: Rigorous evaluation of models to ensure accurate predictions.
 
+---
 
 ## Getting Started
 
@@ -27,17 +32,25 @@ To get started with this project, follow these steps:
 
 2. Explore the Jupyter notebooks to understand the project workflow.
 
+---
+
 ## Dataset
 
 The dataset used for this project is sourced from SastaTicket.pk. It contains comprehensive information about flights, including departure and arrival cities, flight durations, airlines, and, most importantly, ticket prices.
+
+---
 
 ## Usage
 
 This project serves as an educational resource for anyone interested in data science, machine learning, or flight price prediction. You can use the code and notebooks provided here as a reference for your own projects or extend this project to improve prediction accuracy.
 
+---
+
 ## Contributing
 
 We welcome contributions from the open-source community. Your ideas, bug reports, and pull requests are highly appreciated.
+
+---
 
 ## License
 
@@ -47,5 +60,5 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 Happy predicting! If you have any questions or suggestions, feel free to open an issue or contact us.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)  <br>
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
